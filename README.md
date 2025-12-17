@@ -1,0 +1,3 @@
+tiny_variant is a minimal, educational implementation of a type-safe tagged union inspired by std::variant.
+The project focuses on correctness, clarity, and testability rather than feature completeness, and is intended to demonstrate proper object lifetime management, copy/move semantics, and exception safety in modern C++.
+It serves as a learning tool, a reference implementation, and a compact example of production-style C++ engineering practices.
